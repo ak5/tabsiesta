@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+  <title id="title">How TabSiesta works</title>
+  <desc id="desc">Idle tabs and collapsed groups pass through a shared safety check. Eligible tabs sleep using Chrome's native discard API.</desc>
+  <rect width="960" height="230" rx="24" fill="#0e1527"/>
+  <g font-family="system-ui, sans-serif" fill="#fff4df">
+    <text x="40" y="45" font-size="14" letter-spacing="3" fill="#bcb9b5">A LITTLE REST. ONE SHARED POLICY.</text>
+    <rect x="40" y="72" width="230" height="52" rx="12" fill="#332b25"/>
+    <rect x="40" y="140" width="230" height="52" rx="12" fill="#332b25"/>
+    <text x="62" y="105" font-size="20">Idle tabs</text>
+    <text x="62" y="173" font-size="20">Collapsed groups</text>
+    <path d="M286 98h38v34h24M286 166h38v-34" fill="none" stroke="#ffbf4d" stroke-width="2"/>
+    <rect x="360" y="90" width="240" height="84" rx="14" fill="#182139" stroke="#37405a"/>
+    <text x="382" y="124" font-size="20">Safety check</text>
+    <text x="382" y="150" font-size="14" fill="#bcb9b5">Drafts · secrets · exceptions</text>
+    <path d="M616 132h40m-8-6 8 6-8 6" fill="none" stroke="#ffbf4d" stroke-width="2"/>
+    <rect x="674" y="90" width="246" height="84" rx="14" fill="#332b25"/>
+    <text x="696" y="124" font-size="20" fill="#ffbf4d">Native tab sleep</text>
+    <text x="696" y="150" font-size="14" fill="#bcb9b5">Original URL. Reload on selection.</text>
+  </g>
+</svg>
